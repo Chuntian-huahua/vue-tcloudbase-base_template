@@ -1,5 +1,5 @@
 {
   "envId": "环境ID",
-  "functionRoot": "./functions",
+  "functionRoot": "./cloudfunctions",
   "functions": []
 }
